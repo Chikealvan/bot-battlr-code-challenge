@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import BotCollection from './BotCollection';
-import YourBotArmy from './YourBotArmy';
-import './app.css';
+import BotBattlrCollection from './BotBattlrCollection';
+import BotBattlrArmy from './BotBattlrArmy';
+import './App.css';
 
 export default function App() {
   // Define state variables for available bots and selected bots

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const BotCollection = ({ bots, addBotToArmy }) => {
+const BotBattlrCollection = ({ bots, addBotToArmy }) => {
   return (
     <div className="bot-collection">
       <h2>Bots Collection</h2>
@@ -21,4 +21,4 @@ const BotCollection = ({ bots, addBotToArmy }) => {
   );
 };
 
-export default BotCollection;
+export default BotBattlrCollection;
